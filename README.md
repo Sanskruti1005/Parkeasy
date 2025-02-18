@@ -68,4 +68,4 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 
-For any issues or suggestions, please email `yashmohite341@gmail.com` or create an issue in the GitHub repository.
+For any issues or suggestions, please email `sanskrutishedge1005@gmail.com` or create an issue in the GitHub repository.
